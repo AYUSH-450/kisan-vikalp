@@ -1,0 +1,11 @@
+export { default as FarmerHome } from './FarmerHome';
+export { default as BookProcurement } from './BookProcurement';
+export { default as BookingConfirmation } from './BookingConfirmation';
+export { default as DigitalPass } from './DigitalPass';
+export { default as VirtualQueue } from './VirtualQueue';
+export { default as TravelMap } from './TravelMap';
+export { default as ProcurementStatus } from './ProcurementStatus';
+export { default as PaymentStatus } from './PaymentStatus';
+export { default as History } from './History';
+export { default as Notifications } from './Notifications';
+export { default as Profile } from './Profile';
